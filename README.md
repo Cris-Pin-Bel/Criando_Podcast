@@ -7,6 +7,7 @@ Desafio de projeto da DIO no Bootcamp - CAIXA IA Generativa com Microsoft Copilo
 - Copilot
 
 ## 🧐 Processo de Criação
+O projeto foi criado seguindo as orientações de Felipe, Tech Educator da DIO.
 - Roteiro gerado por meio do ChatGPT
 - Audio gerado pelo Clipchamp
 - Copilot para gerar capa
